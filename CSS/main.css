@@ -1,6 +1,6 @@
 .site-header{
-    background-color: #1bbc9b;
-    color: #ecfdf9;
+    background-color: #000000;
+    color: #9470c7;
     font-family:monospace;
     display: flex;
     flex-direction: column;
@@ -14,7 +14,7 @@
     border-radius: 50%;
     height: 200px;
     width: 200px;
-    box-shadow: #0a8826 2px 5px 5px;
+    box-shadow: #34273e 2px 5px 5px;
 }
 body{
     margin: 0;
