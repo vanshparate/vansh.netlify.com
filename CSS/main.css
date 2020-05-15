@@ -1,7 +1,7 @@
 .site-header{
     background-color: #000000;
     color: #9470c7;
-    font-family:monospace;
+    font-family: sans-serif;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -25,7 +25,7 @@ body{
 }
 .igtag :hover
 {
-    color: #C2C1BF;
+    color: #d3cec6;
 }
 a {color: inherit}
 
