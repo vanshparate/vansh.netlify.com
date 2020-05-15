@@ -28,3 +28,9 @@ body{
     color: #C2C1BF;
 }
 a {color: inherit}
+
+span{
+    display: inline-block;
+    border-bottom:1px solid;
+    padding-bottom:0.5px;
+}
